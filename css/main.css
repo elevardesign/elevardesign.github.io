@@ -2701,6 +2701,7 @@ html.no-csstransitions .home-content__main {
 div.flex{
   display: flex;
   padding: 0 20px;
+  width: 25%;
 }
 
 div.flex.mid{
